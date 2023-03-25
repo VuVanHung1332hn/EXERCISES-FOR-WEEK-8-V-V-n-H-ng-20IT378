@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\Data Binding\Data Binding\bin\Debug\STUDENT_MANAGEMENT.mdf
+C:\Users\DELL\source\repos\Data Binding\Data Binding\bin\Debug\STUDENT_MANAGEMENT_log.ldf
+C:\Users\DELL\source\repos\Data Binding\Data Binding\bin\Debug\Data Binding.exe.config
+C:\Users\DELL\source\repos\Data Binding\Data Binding\bin\Debug\Data Binding.exe
+C:\Users\DELL\source\repos\Data Binding\Data Binding\bin\Debug\Data Binding.pdb
+C:\Users\DELL\source\repos\Data Binding\Data Binding\obj\Debug\Data Binding.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Data Binding\Data Binding\obj\Debug\Data Binding.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\repos\Data Binding\Data Binding\obj\Debug\Data_Binding.Form1.resources
+C:\Users\DELL\source\repos\Data Binding\Data Binding\obj\Debug\Data_Binding.ListofStudentsbyClass.resources
+C:\Users\DELL\source\repos\Data Binding\Data Binding\obj\Debug\Data_Binding.Properties.Resources.resources
+C:\Users\DELL\source\repos\Data Binding\Data Binding\obj\Debug\Data Binding.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Data Binding\Data Binding\obj\Debug\Data Binding.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Data Binding\Data Binding\obj\Debug\Data Binding.exe
+C:\Users\DELL\source\repos\Data Binding\Data Binding\obj\Debug\Data Binding.pdb
+C:\Users\DELL\source\repos\Data Binding\Data Binding\obj\Debug\Data_Binding.FrmSearchbystudentName.resources

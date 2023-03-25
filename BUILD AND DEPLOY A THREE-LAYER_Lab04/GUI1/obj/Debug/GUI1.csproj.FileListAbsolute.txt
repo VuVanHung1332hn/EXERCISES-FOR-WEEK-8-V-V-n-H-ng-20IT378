@@ -1,0 +1,13 @@
+C:\Users\DELL\source\repos\BUILD AND DEPLOY A THREE-LAYER\GUI1\bin\Debug\STUDENT_MANAGEMENT.mdf
+C:\Users\DELL\source\repos\BUILD AND DEPLOY A THREE-LAYER\GUI1\bin\Debug\STUDENT_MANAGEMENT_log.ldf
+C:\Users\DELL\source\repos\BUILD AND DEPLOY A THREE-LAYER\GUI1\bin\Debug\GUI1.exe.config
+C:\Users\DELL\source\repos\BUILD AND DEPLOY A THREE-LAYER\GUI1\bin\Debug\GUI1.exe
+C:\Users\DELL\source\repos\BUILD AND DEPLOY A THREE-LAYER\GUI1\bin\Debug\GUI1.pdb
+C:\Users\DELL\source\repos\BUILD AND DEPLOY A THREE-LAYER\GUI1\obj\Debug\GUI1.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\BUILD AND DEPLOY A THREE-LAYER\GUI1\obj\Debug\GUI1.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\repos\BUILD AND DEPLOY A THREE-LAYER\GUI1\obj\Debug\GUI1.Form1.resources
+C:\Users\DELL\source\repos\BUILD AND DEPLOY A THREE-LAYER\GUI1\obj\Debug\GUI1.Properties.Resources.resources
+C:\Users\DELL\source\repos\BUILD AND DEPLOY A THREE-LAYER\GUI1\obj\Debug\GUI1.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\BUILD AND DEPLOY A THREE-LAYER\GUI1\obj\Debug\GUI1.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\BUILD AND DEPLOY A THREE-LAYER\GUI1\obj\Debug\GUI1.exe
+C:\Users\DELL\source\repos\BUILD AND DEPLOY A THREE-LAYER\GUI1\obj\Debug\GUI1.pdb

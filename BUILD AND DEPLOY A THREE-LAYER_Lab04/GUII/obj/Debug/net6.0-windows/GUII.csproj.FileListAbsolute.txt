@@ -1,0 +1,17 @@
+C:\Users\DELL\source\repos\BUILD AND DEPLOY A THREE-LAYER\GUII\bin\Debug\net6.0-windows\GUII.exe
+C:\Users\DELL\source\repos\BUILD AND DEPLOY A THREE-LAYER\GUII\bin\Debug\net6.0-windows\GUII.deps.json
+C:\Users\DELL\source\repos\BUILD AND DEPLOY A THREE-LAYER\GUII\bin\Debug\net6.0-windows\GUII.runtimeconfig.json
+C:\Users\DELL\source\repos\BUILD AND DEPLOY A THREE-LAYER\GUII\bin\Debug\net6.0-windows\GUII.dll
+C:\Users\DELL\source\repos\BUILD AND DEPLOY A THREE-LAYER\GUII\bin\Debug\net6.0-windows\GUII.pdb
+C:\Users\DELL\source\repos\BUILD AND DEPLOY A THREE-LAYER\GUII\obj\Debug\net6.0-windows\GUII.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\BUILD AND DEPLOY A THREE-LAYER\GUII\obj\Debug\net6.0-windows\GUII.Form1.resources
+C:\Users\DELL\source\repos\BUILD AND DEPLOY A THREE-LAYER\GUII\obj\Debug\net6.0-windows\GUII.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\BUILD AND DEPLOY A THREE-LAYER\GUII\obj\Debug\net6.0-windows\GUII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\BUILD AND DEPLOY A THREE-LAYER\GUII\obj\Debug\net6.0-windows\GUII.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\BUILD AND DEPLOY A THREE-LAYER\GUII\obj\Debug\net6.0-windows\GUII.AssemblyInfo.cs
+C:\Users\DELL\source\repos\BUILD AND DEPLOY A THREE-LAYER\GUII\obj\Debug\net6.0-windows\GUII.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\BUILD AND DEPLOY A THREE-LAYER\GUII\obj\Debug\net6.0-windows\GUII.dll
+C:\Users\DELL\source\repos\BUILD AND DEPLOY A THREE-LAYER\GUII\obj\Debug\net6.0-windows\refint\GUII.dll
+C:\Users\DELL\source\repos\BUILD AND DEPLOY A THREE-LAYER\GUII\obj\Debug\net6.0-windows\GUII.pdb
+C:\Users\DELL\source\repos\BUILD AND DEPLOY A THREE-LAYER\GUII\obj\Debug\net6.0-windows\GUII.genruntimeconfig.cache
+C:\Users\DELL\source\repos\BUILD AND DEPLOY A THREE-LAYER\GUII\obj\Debug\net6.0-windows\ref\GUII.dll
